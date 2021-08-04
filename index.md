@@ -1,5 +1,5 @@
 # About
-<img src="apple.png" width="50px">
+<img src="apple.jpg" width="50px">
 岩手県で高校生やってます！
 
 主にWeb開発や機械学習周辺の勉強しています
