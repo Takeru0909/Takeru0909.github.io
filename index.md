@@ -1,5 +1,5 @@
 # About
-![プロフィール写真](rate.jpg)
+<img src="apple.png" width="50px">
 岩手県で高校生やってます！
 
 主にWeb開発や機械学習周辺の勉強しています
@@ -7,7 +7,7 @@
 汎用人工知能開発中（）
 
 
-## Profile
+# Profile
 - 新宮　尊/Shingu Takeru
 - 岩手県在住
 
@@ -29,8 +29,9 @@
 
 # History
 学歴、職歴、アルバイト、インターン経験など。
--2020年　[株式会社ナレッジコミュニケーション](https://www.knowledgecommunication.jp/)　アルバイト
 
--20２０年 [株式会社ナレッジコミュニケーション](https://www.knowledgecommunication.jp/)　インターン(4 days)
+-2020年　[株式会社ナレッジコミュニケーション](https://www.knowledgecommunication.jp/)アルバイト
 
--2019年 [N高等学校](https://nnn.ed.jp/)　　　　　編入
+-20２0年 [株式会社ナレッジコミュニケーション](https://www.knowledgecommunication.jp/)インターン
+
+-2019年 [N高等学校](https://nnn.ed.jp/)編入
