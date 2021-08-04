@@ -29,5 +29,7 @@
 # History
 学歴、職歴、アルバイト、インターン経験など。
 2020年　[株式会社ナレッジコミュニケーション](https://www.knowledgecommunication.jp/)　　　　　アルバイト
+
 20２０年 [株式会社ナレッジコミュニケーション](https://www.knowledgecommunication.jp/)　　　　　インターン(4 days)
+
 2019年 [N高等学校](https://nnn.ed.jp/)　　　　　編入
